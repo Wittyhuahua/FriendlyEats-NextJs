@@ -4,14 +4,14 @@ runConfig:
 env:
   # Get these values from the Firebase console
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: TODO
+    value: AIzaSyCdHqqEU08c8Wl5cW_Ija7F3sSjbSwtza4
   - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    value: TODO
+    value: huahua-9d429.firebaseapp.com
   - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: TODO
+    value: huahua-9d429
   - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: TODO
+    value: huahua-9d429.appspot.com
   - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    value: TODO
+    value: 561713975556
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: TODO
+    value: 1:561713975556:web:dd24b59e5926f8883fc051
